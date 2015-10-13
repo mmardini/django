@@ -14,4 +14,5 @@ lives. Some places you might check are:
     /usr/lib/python2.7/site-packages (Unix, Python 2.7)
     C:\\PYTHON\site-packages         (Windows)
 
+
 For more detailed instructions, see docs/intro/install.txt.
